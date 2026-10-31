@@ -95,13 +95,11 @@ WHERE d.rang = 1;
 
 | Pagina | Wat zie je |
 | --- | --- |
-| Overzicht | Ingestuurd vs. afgerond, voortgang per bedrijf |
-| Per afdeling | Voortgang per kostenplaats, wie loopt achter |
-| Workflow | Bij welke taakeigenaar liggen openstaande gesprekken |
+| Overzicht | Aangemaakte gesprekken t.o.v. medewerkers in dienst, afgerond vs. in bewerking, workflowstatus en taakeigenaar per bedrijf |
+| Details | Per medewerker: kostenplaats, kostendrager, workflowstatus, taakeigenaar, instuur- en afrondingsdatum |
 
 ![Overzicht](screenshots/01-overzicht.png)
-![Per afdeling](screenshots/02-afdeling.png)
-![Workflow](screenshots/03-workflow.png)
+![Details](screenshots/02-details.png)
 
 ## Resultaat
 
