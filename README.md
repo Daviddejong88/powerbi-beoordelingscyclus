@@ -104,9 +104,7 @@ WHERE d.rang = 1;
 ## Resultaat
 
 - HR ziet per afdeling hoeveel gesprekken openstaan en bij wie ze liggen.
-- <!-- Vul aan: bijv. "vervangt een handmatige Excel-lijst" of "wekelijks gebruikt in het HR-overleg" -->
 
 ## Wat ik heb geleerd
 
 - Historische juistheid (point-in-time) vraagt expliciete keuzes die je met de business afstemt.
-- Toegang via RLS werkt alleen als rollen en Entra-groepen tegelijk worden beheerd.
